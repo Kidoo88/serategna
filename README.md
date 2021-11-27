@@ -19,4 +19,4 @@ create a file named .env and set a mongodb url and secret key like the following
 
 `SECRET_KEY=1234567890 `
 
-Kidist Wondimagegn: ATR/9532/08
+Kidist Wondimagegn: ATE/9532/08
